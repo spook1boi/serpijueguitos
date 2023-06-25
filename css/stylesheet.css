@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(../img/fondo.jpg);
+}
+
+#carrito {
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+}
+
+#icono-carrito {
+    margin-top: 12px;
+}
+
+#cantidad-productos {
+    border-width: 0px;
+    color: aliceblue;
+}
+
+i {
+    color: aliceblue;
+}
+
+hr {
+    color: blueviolet;
+
+}
+
+h1 {
+    color: #6262dfbb;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#categorias {
+    padding: 50px;
+}
+
+.imagen-tarjeta {
+    width: 250px;
+
+}
+
+footer {
+    color: whitesmoke;
+}
+
+a:link {text-decoration:none;}
+
+#p-footer {
+    margin-bottom: 0px;
+}
+
+
+@media (max-width: 991px) {
+    #carrito {
+        margin-left: 0px;
+    }
+}
