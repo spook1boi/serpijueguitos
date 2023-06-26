@@ -1,10 +1,10 @@
 let productos = [{
   nombre: "Elden ring",
-  descripcion: "Catalogado como mejor juego del año 2022.",
+  descripcion: "Catalogado como mejor juego del año 2022, ofrece parajes de fantasia y sombrias mazmorras.",
   precio: 39990,
   descuento: 5000,
   sku: "0001",
-  imagen: "../img/elden-ring.jpg"
+  imagen: "./img/elden-ring.jpg"
   },
   {
   
@@ -13,7 +13,7 @@ let productos = [{
   precio: 49990,
   sku: "0002",
   descuento: 10000,
-  imagen: "../img/control.jpg"
+  imagen: "./img/control.jpg"
   },
   {
   
@@ -22,7 +22,7 @@ let productos = [{
   precio: 20990,
   sku: "0003",
   descuento: 5000,
-  imagen: "../img/audifonos.jpg"
+  imagen: "./img/audifonos.jpg"
   },
   {
   
@@ -31,7 +31,7 @@ let productos = [{
   precio: 39990,
   sku: "0004",
   descuento: 3000,
-  imagen: "../img/mw2.jpg"
+  imagen: "./img/mw2.jpg"
   },
   
   ]
